@@ -1,0 +1,18 @@
+2. Answer the following questions
+a. What is the medically relevant insight from the article?
+b. Which genomics technology/ technologies were used?
+
+a: this research developed a single-cell method of high-resolution intrinsic subtype classification (SCSubtype) to reveal recurrent neoplastic cell heterogeneity.
+b: scRNA-seq, CITE-seq, Spatial transcriptomics.
+
+3. Further related research questions
+a. List and explain at least three questions/ hypotheses you can think of that
+extend the analysis presented in the paper.
+
+A: Here are three potential questions/hypotheses that could extend the analysis presented in the paper:
+
+Are there differences in the cellular and spatial heterogeneity of breast cancer subtypes, such as hormone receptor-positive vs. negative or HER2-positive vs. negative tumors? This could be explored by analyzing additional samples from different breast cancer subtypes and comparing the cellular composition and spatial organization of the tumors.
+
+How does the cellular and spatial landscape of breast cancer change in response to therapy? This could be investigated by analyzing samples from patients before and after treatment, with a focus on identifying changes in the abundance and distribution of specific cell types and molecular pathways.
+
+Are there distinct patterns of cellular and spatial heterogeneity that are associated with different clinical outcomes, such as overall survival or response to specific therapies? This could be explored by analyzing clinical data in conjunction with the single-cell and spatially resolved data, to identify potential biomarkers or predictors of treatment response and outcome.
